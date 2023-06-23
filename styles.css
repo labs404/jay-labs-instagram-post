@@ -1,0 +1,154 @@
+* {
+    /* border: dashed 1px darkorange; */
+    min-width: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(25, 25, 25);
+    width: 100%;
+    justify-content: center;
+}
+
+.body-content {
+    background-color: blue;
+    display: inline;
+    justify-content: center;
+}
+
+.post {
+    background-color: black;
+    width: 492px;
+    padding: 100px 200px;
+    margin: 0 auto;
+}
+
+.post-header {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    display: flex;
+}
+
+.html5logo {
+    padding: 10px 0px;
+    position: relative;
+    left: 10px; */
+}
+
+.html5logo img {
+    height: 35px;
+    width: 35px;
+}
+
+.post-header-title {
+    width: 80%;
+    padding: 10px 0px;
+    position: relative;
+    left: 10px;
+}
+
+.post-header-title p {
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px;
+}
+
+.vertical-dots {
+    width: auto;
+    padding: 10px 0px;
+    position: relative;
+    right: -25px;
+}
+
+.vertical-dots img {
+    height: 35px;
+    width: 35px;
+}
+
+
+
+.post-image {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: 492px;
+}
+
+.post-image img {
+    width:492px;
+}
+.post-links {
+    background-color: white;
+    height: 50px;
+    width: 492px;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    display: flex;
+}
+.post-links-like-logo {
+    padding: 10px 0px;
+    position: relative;
+    left: 10px;
+}
+.post-links-like-logo svg {
+    height: 30px;
+    width: 30px;
+}
+.post-links-comment-logo {
+    padding: 10px 0px;
+    position: relative;
+    left: 20px;
+}
+.post-links-comment-logo svg {
+    height: 30px;
+    width: 30px;
+}
+.post-links-share-logo {
+    padding: 10px 0px;
+    position: relative;
+    left: 30px;
+}
+.post-links-share-logo svg {
+    height: 30px;
+    width: 30px;
+}
+.post-links-bookmark-logo {
+    padding: 10px 0px;
+    position: relative;
+    right: -355px;
+}
+.post-links-bookmark-logo svg {
+    height: 30px;
+    width: 30px;
+}
+
+
+.post-likes {
+    background-color: white;
+    margin: 0px;
+    padding: 20px 15px;
+}
+
+.post-likes b {
+    margin: 0px;
+    padding: 0px;
+}
+.post-likes p {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.post-footer {
+    background-color: white;
+    margin: 0px;
+    padding: 10px 15px 30px 15px;
+}
+.post-footer p {
+    margin: 0px;
+    padding: 0px;
+}
